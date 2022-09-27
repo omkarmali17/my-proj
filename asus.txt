@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 only for giyt practice
 gfhbljhk
 akshay is ***
+=======
+only for giyt practice
+>>>>>>> parent of 6c7efff (Revert "done")
